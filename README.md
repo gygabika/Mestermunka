@@ -1,0 +1,2 @@
+# Mestermunka
+dinamikus (React kapcsolat)
