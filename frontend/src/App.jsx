@@ -115,7 +115,7 @@ function App() {
     </div>
   </main>
   <footer>
-    <img src="../ceg_logo.png" alt="DriveUs Logo" id="footer-img" />
+    <img src="/assets/ceg_logo.png" alt="DriveUs Logo" id="footer-img" />
     <p id="footer_p">
       Válogass prémium autóink közül, és indulj útnak stílusosan!
     </p>
