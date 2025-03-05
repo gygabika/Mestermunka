@@ -5,9 +5,6 @@ import '../../bootstrap/css/bootstrap.min.css'
 export function Fooldal() {
   return(
     <>
-  <meta charSet="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DriveUs</title>
   <main>
     <section className="intro">
       <h1>DriveUs - A szabadság, ami mindig úton van.</h1>

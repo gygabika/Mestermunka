@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './Profilom.css'
 import '../../bootstrap/css/bootstrap.min.css'
-import '../assets/ceg_logo.png'
+
 
 export function Profilom() {
   return(

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import './Autok.css'
 import '../../bootstrap/css/bootstrap.min.css'
-import '../assets/ceg_logo.png'
+
 
 export function Autok() {
   return(
