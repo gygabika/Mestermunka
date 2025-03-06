@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import './Berleseim.css'
 import '../../bootstrap/css/bootstrap.min.css'
 
@@ -6,10 +5,7 @@ import '../../bootstrap/css/bootstrap.min.css'
 export function Berleseim() {
   return(
     <>
-  <meta charSet="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DriveUs/BÉRLÉSEIM</title>
-  <main>
+ 
     <section className="intro">
       <h1>Az Ön Bérlései</h1>
       <p>
@@ -58,7 +54,7 @@ export function Berleseim() {
         <a href="#">További részletek</a>
       </div>
     </section>
-  </main>
+
 </>
 
   )

@@ -8,7 +8,6 @@ export function Layout() {
             <header>
                 <h1 id="focim">DriveUs</h1>
                 <Navbar/>
-                <div id="google_translate_element"/> 
             </header>
             <main>
                 <Outlet/>
@@ -20,3 +19,4 @@ export function Layout() {
         </>
     )
 }
+

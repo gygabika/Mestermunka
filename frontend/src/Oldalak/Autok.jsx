@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import './Autok.css'
 import '../../bootstrap/css/bootstrap.min.css'
 
@@ -6,10 +5,7 @@ import '../../bootstrap/css/bootstrap.min.css'
 export function Autok() {
   return(
     <>
-  <meta charSet="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DriveUs/AUTÓK</title>
-  <main>
+
     <h2 id="aktualis" className="mb-4 text-center">
       Aktuális ajánlataink
     </h2>
@@ -443,7 +439,7 @@ export function Autok() {
         </div>
       </div>
     </div>
-  </main>
+
 </>
 
   )

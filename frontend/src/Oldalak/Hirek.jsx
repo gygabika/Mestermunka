@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import './Hirek.css'
 import '../../bootstrap/css/bootstrap.min.css'
 
@@ -6,10 +5,7 @@ import '../../bootstrap/css/bootstrap.min.css'
 export function Hirek() {
   return(
     <>
-  <meta charSet="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DriveUs/HÍRLAP</title>
-  <main>
+
     <section className="intro">
       <h1>DriveUs Hírek és Újdonságok</h1>
       <p>
@@ -73,7 +69,7 @@ export function Hirek() {
         <a href="#">Tudj meg többet</a>
       </div>
     </section>
-  </main>
+
 </>
 
   )

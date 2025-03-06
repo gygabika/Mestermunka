@@ -8,7 +8,7 @@ import { Hirek } from './Oldalak/Hirek'
 import { Layout } from './Layout'
 
 function App() {
-
+  
   return (
     <Router>
       <Routes>
